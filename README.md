@@ -1,6 +1,6 @@
 # awesome-behavioral--
 <p align="center">
-  <img src="https://github.com/Rohitkumaryadav17/awesome-behavioral--interview/blob/main/image%20copy%202.png" width="350" height="200">
+  <img src="https://github.com/Rohitkumaryadav17/awesome-behavioral--interview/blob/main/image.png" width="350" height="200">
 </p>
 <p align="center">
   <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
