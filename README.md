@@ -1,6 +1,6 @@
 # awesome-behavioral--
 <p align="center">
-  <img src="images/behvaioral-repo-logo.png" width="350" height="200">
+  <img src="D:\behaviour round\image.png" width="350" height="200">
 </p>
 <p align="center">
   <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
